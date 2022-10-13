@@ -1,2 +1,2 @@
 #!/bin/bash hate bins
-grep iv bin /etc/passwd hate bins
+echo grep iv bin /etc/passwd
